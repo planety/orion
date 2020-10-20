@@ -1,2 +1,2 @@
 # orion
-Orion for Starlight framework.
+ORM for Prologue web framework.
